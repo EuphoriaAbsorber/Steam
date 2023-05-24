@@ -198,9 +198,7 @@ Game_forUser_Status разбита по шардам и хранится на р
 | Kafka | Message broker | Большое коммьюнити, высокая скорость работы |
 
 ### 6. Схема проекта
-
-
-![4](https://github.com/EuphoriaAbsorber/Steam/assets/65418582/06cdf9fc-4d50-48f6-8b49-820585b7578d)
+![4](https://github.com/EuphoriaAbsorber/Steam/assets/65418582/1564121f-4a82-488d-8eb3-f0b64094dce9)
 
 ### 7. Список серверов
 ### Хранилище
