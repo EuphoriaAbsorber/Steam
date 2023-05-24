@@ -199,7 +199,8 @@ Game_forUser_Status разбита по шардам и хранится на р
 
 ### 6. Схема проекта
 
-![4](https://github.com/EuphoriaAbsorber/Steam/assets/65418582/7d629f44-258e-47bd-9561-afe8661b57e5)
+![4](https://github.com/EuphoriaAbsorber/Steam/assets/65418582/1841f771-bb6a-42de-910d-c9d2e01918e1)
+
 
 ### 7. Список серверов
 ### Хранилище
